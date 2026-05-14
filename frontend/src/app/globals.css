@@ -1,0 +1,277 @@
+@import "tailwindcss";
+
+/* ═══════════════════════════════════════════════════════════════════════
+   TASK 21 — IPL Oracle Design Tokens
+   Stadium Night Blue (#19388A) · Electric Gold (#F9C205) · Boundary Purple (#5D3B85)
+   ═══════════════════════════════════════════════════════════════════════ */
+
+:root {
+  /* ── Primary Palette ────────────────────────────────────────────── */
+  --stadium-blue: #19388A;
+  --stadium-blue-deep: #0e2460;
+  --stadium-blue-light: #264db3;
+  --electric-gold: #F9C205;
+  --electric-gold-dim: #c99b04;
+  --boundary-purple: #5D3B85;
+  --boundary-purple-light: #7d57ac;
+
+  /* ── Semantic Colors ────────────────────────────────────────────── */
+  --yes-green: #22c55e;
+  --no-red: #ef4444;
+  --maybe-gray: #6b7280;
+  --dont-know-slate: #94a3b8;
+
+  /* ── Surface & Text ─────────────────────────────────────────────── */
+  --background: #060c1f;
+  --foreground: #f0f0f5;
+  --surface-glass: rgba(255, 255, 255, 0.06);
+  --surface-glass-hover: rgba(255, 255, 255, 0.10);
+  --border-glass: rgba(255, 255, 255, 0.12);
+  --text-muted: #9ca3af;
+
+  /* ── Typography ─────────────────────────────────────────────────── */
+  --font-heading: 'Bebas Neue', sans-serif;
+  --font-body: 'Outfit', sans-serif;
+
+  /* ── Spacing & Radius ───────────────────────────────────────────── */
+  --radius-sm: 8px;
+  --radius-md: 16px;
+  --radius-lg: 24px;
+  --radius-full: 9999px;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-stadium-blue: var(--stadium-blue);
+  --color-stadium-blue-deep: var(--stadium-blue-deep);
+  --color-stadium-blue-light: var(--stadium-blue-light);
+  --color-electric-gold: var(--electric-gold);
+  --color-boundary-purple: var(--boundary-purple);
+  --color-boundary-purple-light: var(--boundary-purple-light);
+  --color-yes-green: var(--yes-green);
+  --color-no-red: var(--no-red);
+  --color-maybe-gray: var(--maybe-gray);
+  --color-dont-know-slate: var(--dont-know-slate);
+  --color-surface-glass: var(--surface-glass);
+  --color-surface-glass-hover: var(--surface-glass-hover);
+  --color-border-glass: var(--border-glass);
+  --color-text-muted: var(--text-muted);
+  --font-heading: var(--font-heading);
+  --font-body: var(--font-body);
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════
+   Global Resets & Base
+   ═══════════════════════════════════════════════════════════════════════ */
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-body);
+  min-height: 100dvh;
+  overflow-x: hidden;
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════
+   Stadium Background — Dynamic gradient + bokeh particles
+   ═══════════════════════════════════════════════════════════════════════ */
+
+.stadium-bg {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  background:
+    radial-gradient(ellipse at 50% 20%, rgba(93, 59, 133, 0.35) 0%, transparent 60%),
+    radial-gradient(ellipse at 80% 70%, rgba(25, 56, 138, 0.40) 0%, transparent 50%),
+    radial-gradient(ellipse at 20% 80%, rgba(249, 194, 5, 0.08) 0%, transparent 40%),
+    linear-gradient(180deg, #060c1f 0%, #0e2460 50%, #060c1f 100%);
+  overflow: hidden;
+}
+
+/* Floating bokeh / floodlight particles */
+.stadium-bg::before,
+.stadium-bg::after {
+  content: '';
+  position: absolute;
+  border-radius: 50%;
+  filter: blur(60px);
+  opacity: 0.3;
+  animation: float-bokeh 12s ease-in-out infinite alternate;
+}
+
+.stadium-bg::before {
+  width: 350px;
+  height: 350px;
+  background: var(--boundary-purple);
+  top: 10%;
+  left: 15%;
+}
+
+.stadium-bg::after {
+  width: 280px;
+  height: 280px;
+  background: var(--electric-gold);
+  bottom: 15%;
+  right: 10%;
+  animation-delay: -6s;
+  opacity: 0.15;
+}
+
+@keyframes float-bokeh {
+  0%   { transform: translate(0, 0) scale(1); }
+  100% { transform: translate(30px, -20px) scale(1.15); }
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════
+   Glassmorphism Utility
+   ═══════════════════════════════════════════════════════════════════════ */
+
+.glass {
+  background: var(--surface-glass);
+  backdrop-filter: blur(18px) saturate(1.4);
+  -webkit-backdrop-filter: blur(18px) saturate(1.4);
+  border: 1px solid var(--border-glass);
+  border-radius: var(--radius-md);
+}
+
+.glass-strong {
+  background: rgba(255, 255, 255, 0.10);
+  backdrop-filter: blur(24px) saturate(1.6);
+  -webkit-backdrop-filter: blur(24px) saturate(1.6);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  border-radius: var(--radius-lg);
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════
+   Heading Typography
+   ═══════════════════════════════════════════════════════════════════════ */
+
+.heading-display {
+  font-family: var(--font-heading);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  background: linear-gradient(135deg, var(--electric-gold), #ffe066, var(--electric-gold));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════
+   Micro-animations
+   ═══════════════════════════════════════════════════════════════════════ */
+
+@keyframes fade-in-up {
+  0%   { opacity: 0; transform: translateY(16px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes pulse-glow {
+  0%, 100% { box-shadow: 0 0 12px rgba(249, 194, 5, 0.25); }
+  50%      { box-shadow: 0 0 28px rgba(249, 194, 5, 0.50); }
+}
+
+@keyframes shimmer {
+  0%   { background-position: -200% center; }
+  100% { background-position: 200% center; }
+}
+
+@keyframes oracle-float {
+  0%, 100% { transform: translateY(0); }
+  50%      { transform: translateY(-8px); }
+}
+
+@keyframes confidence-pulse {
+  0%, 100% { opacity: 1; }
+  50%      { opacity: 0.6; }
+}
+
+.animate-fade-in-up {
+  animation: fade-in-up 0.5s ease-out forwards;
+}
+
+.animate-pulse-glow {
+  animation: pulse-glow 2s ease-in-out infinite;
+}
+
+.animate-oracle-float {
+  animation: oracle-float 4s ease-in-out infinite;
+}
+
+/* ── Visual Novel Animations ── */
+@keyframes vn-breathe {
+  0%, 100% { transform: translateY(0) scaleY(1); }
+  50% { transform: translateY(-4px) scaleY(1.02); }
+}
+
+@keyframes vn-swing {
+  0% { transform: rotate(0deg) scale(1); }
+  30% { transform: rotate(-10deg) scale(1.05); }
+  50% { transform: rotate(20deg) scale(1.1); filter: drop-shadow(0 0 20px rgba(249,194,5,0.6)); }
+  100% { transform: rotate(0deg) scale(1); }
+}
+
+@keyframes ball-arc {
+  0% { transform: translate(-300px, 400px) scale(0.5); opacity: 0; }
+  20% { opacity: 1; }
+  50% { transform: translate(100px, -50px) scale(1.2); }
+  100% { transform: translate(800px, -200px) scale(0.8); opacity: 0; }
+}
+
+@keyframes card-flip-out {
+  0% { transform: perspective(1000px) rotateX(0deg); opacity: 1; }
+  100% { transform: perspective(1000px) rotateX(90deg); opacity: 0; }
+}
+
+@keyframes card-flip-in {
+  0% { transform: perspective(1000px) rotateX(-90deg); opacity: 0; }
+  100% { transform: perspective(1000px) rotateX(0deg); opacity: 1; }
+}
+
+.vn-idle {
+  animation: vn-breathe 4s ease-in-out infinite;
+  transform-origin: bottom center;
+}
+
+.vn-swing-active {
+  animation: vn-swing 0.6s cubic-bezier(0.25, 0.46, 0.45, 0.94) forwards;
+  transform-origin: bottom center;
+}
+
+.vn-card-out {
+  animation: card-flip-out 0.4s ease-in forwards;
+}
+
+.vn-card-in {
+  animation: card-flip-in 0.5s ease-out forwards;
+}
+
+.ball-element {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  background: radial-gradient(circle at 30% 30%, #fff, #e0e0e0);
+  border-radius: 50%;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.4), inset -2px -2px 6px rgba(0,0,0,0.2);
+  z-index: 50;
+  pointer-events: none;
+  opacity: 0;
+}
+
+.ball-animating {
+  animation: ball-arc 1s cubic-bezier(0.25, 0.46, 0.45, 0.94) forwards;
+}
