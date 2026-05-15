@@ -1,0 +1,404 @@
+players_name,batting_style,bowling_style,country,primary_role,is_caption,is_opener,is_finisher,is_death_bowler,legacy_teams_tag,player_status_tag,total_matchs_played,cap_winner,award_winner,is_man_of_the_match
+Virat Kohli,right-hand,,Indian,batsman,true,true,false,false,RCB,active,252,orange,true,true
+MS Dhoni,right-hand,,Indian,wk,true,false,true,false,CSK,active,264,,true,true
+Rohit Sharma,right-hand,offbreak,Indian,batsman,true,true,false,false,MI,active,257,orange,true,true
+AB de Villiers,right-hand,,Overseas,batsman,false,true,true,false,RCB,retired,184,orange,true,true
+Chris Gayle,left-hand,offbreak,Overseas,batsman,false,true,true,false,RCB,retired,142,orange,true,true
+David Warner,left-hand,,Overseas,batsman,true,true,false,false,SRH,active,187,orange,true,true
+Suresh Raina,left-hand,,Indian,batsman,true,false,true,false,CSK,retired,216,,true,true
+Andre Russell,right-hand,pace,Overseas,all-rounder,false,false,true,true,KKR,active,132,purple,true,true
+Jasprit Bumrah,right-hand,pace,Indian,bowler,false,false,false,true,MI,active,142,purple,true,true
+Rashid Khan,right-hand,legbreak,Overseas,bowler,false,false,false,true,GT,active,134,purple,true,true
+KL Rahul,right-hand,,Indian,batsman,true,true,false,false,LSG,active,143,orange,true,true
+Hardik Pandya,left-hand,pace,Indian,all-rounder,true,false,true,true,MI,active,123,,true,true
+Sunil Narine,left-hand,offbreak,Overseas,bowler,false,false,false,true,KKR,active,182,purple,true,true
+Shikhar Dhawan,left-hand,,Indian,batsman,true,true,false,false,PBKS,retired,222,orange,true,true
+Dinesh Karthik,right-hand,,Indian,wk,true,false,true,false,RCB,active,259,,true,true
+Bhuvneshwar Kumar,right-hand,pace,Indian,bowler,true,false,false,true,SRH,active,182,purple,true,true
+Piyush Chawla,left-hand,legbreak,Indian,bowler,false,false,false,false,MI,active,191,,true,true
+Ambati Rayudu,right-hand,,Indian,batsman,true,false,true,false,CSK,retired,228,,true,true
+Ravindra Jadeja,left-hand,spin,Indian,all-rounder,true,false,true,false,CSK,active,226,,true,true
+Faf du Plessis,right-hand,,Overseas,batsman,true,true,false,false,RCB,active,132,orange,true,true
+Quinton de Kock,left-hand,,Overseas,wk,true,true,false,false,LSG,active,118,,true,true
+Trent Boult,left-hand,pace,Overseas,bowler,false,false,false,true,RR,active,104,purple,true,true
+Yuzvendra Chahal,left-hand,legbreak,Indian,bowler,false,false,false,false,RR,active,159,purple,true,true
+Kieron Pollard,right-hand,pace,Overseas,all-rounder,false,false,true,false,MI,retired,204,,true,true
+Glenn Maxwell,right-hand,offbreak,Overseas,batsman,false,true,true,false,RCB,active,139,,true,true
+Muttiah Muralitharan,right-hand,offbreak,Overseas,bowler,false,false,false,false,CSK,retired,66,,true,true
+Zaheer Khan,right-hand,pace,Indian,bowler,true,false,false,true,MI,retired,121,purple,true,true
+Ravichandran Ashwin,left-hand,offbreak,Indian,bowler,true,false,false,false,CSK,active,226,,true,true
+Brendon McCullum,right-hand,,Overseas,batsman,true,true,false,false,KKR,retired,109,orange,true,true
+Gautam Gambhir,left-hand,offbreak,Indian,batsman,true,true,false,false,KKR,retired,152,,true,true
+Robin Uthappa,right-hand,,Indian,batsman,false,true,true,false,KKR,retired,182,,true,true
+Harbhajan Singh,right-hand,offbreak,Indian,bowler,true,false,false,false,MI,retired,167,,true,true
+Lasith Malinga,right-hand,pace,Overseas,bowler,false,false,false,true,MI,retired,122,purple,true,true
+Ajinkya Rahane,right-hand,offbreak,Indian,batsman,true,true,false,false,RR,active,183,,true,true
+Ishan Kishan,left-hand,,Indian,wk,false,true,false,false,MI,active,105,,true,true
+Mayank Agarwal,right-hand,,Indian,batsman,false,true,false,false,PBKS,occasional,127,,true,true
+Moeen Ali,right-hand,offbreak,Overseas,all-rounder,false,false,true,false,CSK,occasional,65,,true,true
+Deepak Hooda,right-hand,legbreak,Indian,all-rounder,false,false,true,false,LSG,active,89,,true,true
+Marcus Stoinis,right-hand,pace,Overseas,all-rounder,false,false,true,true,LSG,active,108,,true,true
+Kagiso Rabada,left-hand,pace,Overseas,bowler,false,false,false,true,DC,active,98,purple,true,true
+Varun Chakravarthy,right-hand,legbreak,Indian,bowler,false,false,false,false,KKR,active,73,purple,true,true
+Shreyas Iyer,right-hand,legbreak,Indian,batsman,true,false,false,false,KKR,active,97,,true,true
+Nitish Rana,left-hand,offbreak,Indian,batsman,false,true,false,false,KKR,active,104,,true,true
+Washington Sundar,right-hand,offbreak,Indian,all-rounder,false,false,false,false,SRH,active,76,,true,true
+Rahul Tewatia,left-hand,legbreak,Indian,all-rounder,false,false,true,false,GT,active,78,,true,true
+Nicholas Pooran,left-hand,,Overseas,wk,false,false,true,false,LSG,active,82,,true,true
+Tim David,right-hand,,Overseas,batsman,false,false,true,false,MI,active,45,,true,true
+Rishabh Pant,left-hand,,Indian,wk,true,true,true,false,DC,active,111,,true,true
+Axar Patel,left-hand,offbreak,Indian,all-rounder,true,false,false,false,DC,active,127,,true,true
+Mandeep Singh,right-hand,,Indian,batsman,false,true,false,false,PBKS,retired,120,,true,true
+Manish Pandey,right-hand,offbreak,Indian,batsman,false,true,false,false,SRH,active,171,,true,true
+Parthiv Patel,left-hand,,Indian,wk,true,true,false,false,RCB,retired,130,,true,true
+Vinay Kumar,right-hand,pace,Indian,bowler,false,false,false,true,RCB,retired,123,,true,true
+Anil Kumble,right-hand,legbreak,Indian,bowler,true,false,false,false,RCB,retired,17,,true,true
+Chris Morris,right-hand,pace,Overseas,all-rounder,false,false,true,true,RR,retired,76,,true,true
+Pat Cummins,right-hand,pace,Overseas,bowler,true,false,false,true,SRH,active,64,purple,true,true
+Lockie Ferguson,right-hand,pace,Overseas,bowler,false,false,false,true,GT,active,55,purple,true,true
+Adam Zampa,right-hand,legbreak,Overseas,bowler,false,false,false,false,RR,active,28,,true,true
+Jofra Archer,right-hand,pace,Overseas,bowler,false,false,false,true,RR,occasional,34,,true,true
+T Natarajan,left-hand,pace,Indian,bowler,false,false,false,true,SRH,active,59,,true,true
+Sandeep Sharma,right-hand,pace,Indian,bowler,false,false,false,true,RR,active,112,,true,true
+Umesh Yadav,right-hand,pace,Indian,bowler,false,false,false,true,GT,active,148,,true,true
+Mohammed Shami,right-hand,pace,Indian,bowler,false,false,false,false,GT,active,69,,true,true
+Arshdeep Singh,left-hand,pace,Indian,bowler,false,false,false,true,PBKS,active,71,,true,true
+Harshal Patel,right-hand,pace,Indian,bowler,false,false,false,true,RCB,active,109,purple,true,true
+Avesh Khan,right-hand,pace,Indian,bowler,false,false,false,true,RR,active,52,,true,true
+Akash Deep,right-hand,pace,Indian,bowler,false,false,false,false,RCB,active,23,,false
+Mukesh Kumar,right-hand,pace,Indian,bowler,false,false,false,false,DC,active,21,,false
+Shardul Thakur,right-hand,pace,Indian,all-rounder,false,false,false,true,CSK,active,85,,true,true
+Deepak Chahar,right-hand,pace,Indian,bowler,false,false,false,true,CSK,active,78,,true,true
+Matheesha Pathirana,left-hand,pace,Overseas,bowler,false,false,false,true,CSK,active,29,,true,true
+Mustafizur Rahman,left-hand,pace,Overseas,bowler,false,false,false,true,CSK,active,35,,true,true
+Josh Hazlewood,right-hand,pace,Overseas,bowler,false,false,false,true,RCB,active,32,,true,true
+Mitchell Starc,left-hand,pace,Overseas,bowler,false,false,false,true,KKR,active,37,,true,true
+Alzarri Joseph,right-hand,pace,Overseas,bowler,false,false,false,true,RCB,active,22,,false
+Ravi Bishnoi,right-hand,legbreak,Indian,bowler,false,false,false,false,LSG,active,40,,true,true
+Akeal Hosein,left-hand,left-arm spin,Overseas,bowler,false,false,false,false,MI,active,12,,false
+Noor Ahmad,left-hand,left-arm spin,Overseas,bowler,false,false,false,false,GT,active,18,,false
+R Sai Kishore,left-hand,left-arm spin,Indian,bowler,false,false,false,false,GT,active,15,,false
+Abdul Samad,right-hand,,Indian,batsman,false,false,true,false,SRH,active,32,,false
+Abdul Shakeel,right-hand,,Indian,batsman,false,true,false,false,DC,active,8,,false
+Abhinav Manohar,right-hand,,Indian,batsman,false,false,true,false,LSG,active,14,,false
+Abolfazl Ahmadi,right-hand,,Overseas,batsman,false,true,false,false,KKR,active,5,,false
+Adam Milne,right-hand,pace,Overseas,bowler,false,false,false,true,RCB,occasional,29,,true,true
+Aiden Blizzard,left-hand,,Overseas,batsman,false,true,false,false,CSK,retired,13,,false
+Aiden Markram,left-hand,offbreak,Overseas,batsman,true,true,false,false,SRH,active,37,,true,true
+Ajit Agarkar,right-hand,pace,Indian,bowler,true,false,false,false,MI,retired,17,,true,true
+Akash Ambani,right-hand,,Indian,batsman,false,false,false,false,MI,active,2,,false
+Akash Singh,left-hand,pace,Indian,bowler,false,false,false,false,RR,active,3,,false
+Akash Vasisht,right-hand,legbreak,Indian,bowler,false,false,false,false,RCB,active,1,,false
+Albie Morkel,left-hand,pace,Overseas,all-rounder,false,false,true,true,CSK,retired,29,,true,true
+Alec Wilderspoon,right-hand,pace,Overseas,bowler,false,false,false,false,DC,active,7,,false
+Alex Hales,right-hand,,Overseas,batsman,false,true,false,false,MI,occasional,16,,true,true
+Alex Thomson,right-hand,offbreak,Overseas,bowler,false,false,false,false,RR,active,4,,false
+Alfonso Turner,right-hand,,Overseas,batsman,false,true,false,false,GT,active,6,,false
+Alok Joshi,right-hand,offbreak,Indian,bowler,false,false,false,false,DC,active,2,,false
+Alpesh Ramjani,right-hand,left-arm spin,Indian,all-rounder,false,false,false,false,LSG,active,9,,false
+Aman Khan,right-hand,pace,Indian,all-rounder,false,false,true,true,MI,active,22,,true,true
+Amanpreet Singh,right-hand,,Indian,batsman,false,false,true,false,PBKS,active,5,,false
+Amarjit Kaypee,right-hand,,Indian,batsman,false,true,false,false,DC,retired,14,,false
+Amanjot Kaur,right-hand,,Indian,batsman,false,false,true,false,PBKS,active,12,,false,false
+Amanpreet Singh,right-hand,,Indian,batsman,false,true,false,false,PBKS,active,5,,false,false
+Amarjit Kaypee,right-hand,,Indian,batsman,false,true,false,false,DC,retired,14,,false,false
+Amit Mishra,right-hand,legbreak,Indian,bowler,false,false,false,false,DC,retired,152,,true,true
+Anmolpreet Singh,right-hand,,Indian,batsman,false,false,false,false,MI,active,8,,false,false
+Anrich Nortje,right-hand,pace,Overseas,bowler,false,false,false,true,DC,active,35,,true,true
+Anukul Roy,left-hand,left-arm spin,Indian,all-rounder,false,false,false,false,RR,active,11,,false,false
+Arjun Tendulkar,right-hand,left-arm pace,Indian,all-rounder,false,false,false,false,MI,active,5,,false,false
+Arshdeep Singh,left-hand,pace,Indian,bowler,false,false,false,true,PBKS,active,71,,true,true
+Arun Karthik,right-hand,,Indian,wk,false,true,false,false,RCB,retired,42,,false,false
+Aryaman Birla,right-hand,offbreak,Indian,batsman,false,true,false,false,RR,retired,2,,false,false
+Ashok Dinda,right-hand,pace,Indian,bowler,false,false,false,true,PBKS,retired,91,,true,true
+Ashton Agar,left-hand,left-arm spin,Overseas,bowler,false,false,false,false,RCB,occasional,4,,false,false
+Ashton Turner,right-hand,legbreak,Overseas,batsman,false,false,true,false,LSG,active,2,,false,false
+Avesh Khan,right-hand,pace,Indian,bowler,false,false,false,true,RR,active,52,,true,true
+Ayush Badoni,right-hand,legbreak,Indian,batsman,false,false,true,false,LSG,active,38,,true,true
+B Akash,right-hand,pace,Indian,bowler,false,false,false,false,CSK,active,3,,false,false
+Baba Aparajith,right-hand,offbreak,Indian,all-rounder,false,false,false,false,SRH,retired,2,,false,false
+Baba Indrajith,right-hand,,Indian,wk,false,false,false,false,CSK,active,4,,false,false
+Balaji Amin,right-hand,pace,Indian,bowler,false,false,false,false,RCB,retired,1,,false,false
+Basil Thampi,right-hand,pace,Indian,bowler,false,false,false,true,GT,active,22,,false,false
+Ben Cutting,right-hand,pace,Overseas,all-rounder,false,false,true,true,DC,retired,21,,false,false
+Ben Dwarshuis,left-hand,pace,Overseas,bowler,false,false,false,true,RCB,active,2,,false,false
+Ben Hilfenhaus,right-hand,pace,Overseas,bowler,false,false,false,true,CSK,retired,9,,false,false
+Ben McDermott,right-hand,,Overseas,wk,false,true,false,false,DC,active,7,,false,false
+Bharat Chipli,right-hand,,Indian,batsman,false,true,false,false,RCB,retired,3,,false,false
+Bharathiraj Dorai,right-hand,pace,Indian,bowler,false,false,false,false,CSK,retired,1,,false,false
+Bhavik Bakshi,right-hand,,Indian,batsman,false,true,false,false,RR,retired,1,,false,false
+Bheema Shreyas Gowda,right-hand,,Indian,batsman,false,true,false,false,RCB,active,1,,false,false
+Bhuvi Arjun,left-hand,pace,Indian,bowler,false,false,false,false,KKR,active,2,,false,false
+Biprajit Das,left-hand,left-arm spin,Indian,bowler,false,false,false,false,RR,retired,1,,false,false
+Bishnu Parbat,right-hand,,Indian,batsman,false,false,true,false,LSG,active,3,,false,false
+Bishwajit Das,left-hand,,Indian,batsman,false,true,false,false,RR,retired,2,,false,false
+Brett Lee,right-hand,pace,Overseas,bowler,false,false,false,true,DC,retired,11,,true,true
+Brice Beveridge,right-hand,,Overseas,batsman,false,true,false,false,GT,active,4,,false,false
+C Akhilesh Reddy,right-hand,offbreak,Indian,batsman,false,true,false,false,SRH,retired,1,,false,false
+C J Anderson,left-hand,,Overseas,batsman,false,false,true,false,MI,retired,9,,false,false
+C Nidhish Sagar,right-hand,,Indian,batsman,false,false,true,false,CSK,active,2,,false,false
+C S Mallikarjuna,right-hand,,Indian,batsman,false,true,false,false,RCB,retired,1,,false,false
+Cameron Green,left-hand,pace,Overseas,all-rounder,false,false,true,true,MI,active,15,,true,true
+Carlos Brathwaite,right-hand,pace,Overseas,all-rounder,false,false,true,true,RR,retired,14,,true,true
+Chaitanya Bishnoi,left-hand,left-arm spin,Indian,bowler,false,false,false,false,RR,active,2,,false,false
+Chetan Sakariya,left-hand,pace,Indian,bowler,false,false,false,true,GT,active,28,,false,false
+Chintan Gaja,left-hand,left-arm spin,Indian,bowler,false,false,false,false,GT,active,4,,false,false
+Chirag Gandhi,left-hand,,Indian,batsman,false,true,false,false,GT,retired,1,,false,false
+Chirag Jani,left-hand,,Indian,batsman,false,false,true,false,GT,retired,1,,false,false
+Chris Jordan,right-hand,pace,Overseas,bowler,false,false,false,true,RCB,active,36,,true,true
+Christopher Barnwell,right-hand,pace,Overseas,all-rounder,false,false,true,true,RR,retired,4,,false,false
+Clement Bosch,right-hand,pace,Overseas,bowler,false,false,false,true,RCB,retired,2,,false,false
+Colin de Grandhomme,left-hand,pace,Overseas,all-rounder,false,false,true,true,CSK,occasional,22,,true,true
+Darshan Nalkande,right-hand,pace,Indian,bowler,false,false,false,false,GT,active,8,,false,false
+Daryl Mitchell,right-hand,pace,Overseas,all-rounder,false,false,true,false,CSK,active,18,,true,true
+Dasun Shanaka,right-hand,pace,Overseas,batsman,false,false,true,false,SRH,active,7,,false,false
+David Miller,left-hand,,Overseas,batsman,false,false,true,false,GT,active,128,,true,true
+David Payne,left-hand,pace,Overseas,bowler,false,false,false,true,RR,active,5,,false,false
+David Wiese,right-hand,pace,Overseas,all-rounder,false,false,true,true,KKR,retired,26,,true,true
+Dawid Malan,left-hand,,Overseas,batsman,false,true,false,false,RCB,active,11,,false,false
+De Kock Quinton,left-hand,,Overseas,wk,true,true,false,false,LSG,active,118,,true,true
+Deepak Hooda,right-hand,legbreak,Indian,all-rounder,false,false,true,false,LSG,active,89,,true,true
+Deepak Chahar,right-hand,pace,Indian,bowler,false,false,false,true,CSK,active,78,,true,true
+Devdutt Padikkal,left-hand,,Indian,batsman,false,true,false,false,RCB,active,59,,true,true
+Devendra Bishoo,left-hand,legbreak,Overseas,bowler,false,false,false,false,RR,retired,4,,false,false
+Dhruv Jurel,right-hand,,Indian,wk,false,false,false,false,RR,active,15,,false,false
+Dhruv Shorey,right-hand,,Indian,batsman,false,true,false,false,DC,retired,1,,false,false
+Dinesh Karthik,right-hand,,Indian,wk,true,false,true,false,RCB,active,259,,true,true
+Diwesh Pathania,right-hand,pace,Indian,bowler,false,false,false,false,RR,retired,1,,false,false
+Dixit Dhaval,right-hand,pace,Indian,bowler,false,false,false,false,GT,retired,1,,false,false
+Dwayne Bravo,right-hand,pace,Overseas,all-rounder,true,false,true,true,CSK,retired,161,purple,true,true
+Dwayne Smith,right-hand,pace,Overseas,batsman,false,true,true,false,CSK,retired,51,,true,true
+Eoin Morgan,left-hand,,Overseas,batsman,true,true,false,false,KKR,retired,109,,true,true
+Evangelista Mnyaka,right-hand,pace,Overseas,bowler,false,false,false,false,DC,active,3,,false,false
+Faf du Plessis,right-hand,,Overseas,batsman,true,true,false,false,RCB,active,132,orange,true,true
+Fabian Allen,left-hand,left-arm spin,Overseas,all-rounder,false,false,true,false,PBKS,active,16,,false,false
+Faf du Plessis,right-hand,,Overseas,batsman,true,true,false,false,RCB,active,132,orange,true,true
+Feroze Khushi,right-hand,,Indian,batsman,false,true,false,false,CSK,active,2,,false,false
+G Ajitesh,right-hand,,Indian,wk,false,true,false,false,CSK,active,2,,false,false
+G Nidhish Sagar,right-hand,,Indian,batsman,false,false,true,false,CSK,active,2,,false,false
+G Shahrukh Khan,right-hand,offbreak,Indian,batsman,false,false,true,false,PBKS,active,35,,false,false
+Gagandeep Singh,right-hand,pace,Indian,bowler,false,false,false,false,PBKS,retired,1,,false,false
+Gajanan Kshirsagar,right-hand,left-arm spin,Indian,bowler,false,false,false,false,MI,retired,1,,false,false
+Gandhi Chirag,left-hand,,Indian,batsman,false,true,false,false,GT,retired,1,,false,false
+Ganesh Chaturvedi,right-hand,,Indian,batsman,false,true,false,false,LSG,active,1,,false,false
+Ganesh Kumar,right-hand,,Indian,batsman,false,true,false,false,RCB,retired,1,,false,false
+Gaurav Tomar,right-hand,,Indian,batsman,false,true,false,false,RR,retired,1,,false,false
+Gautam Gambhir,left-hand,offbreak,Indian,batsman,true,true,false,false,KKR,retired,152,,true,true
+Gavaskar Surya,right-hand,,Indian,wk,false,true,false,false,GT,active,3,,false,false
+Glenn Phillips,right-hand,offbreak,Overseas,batsman,false,true,false,false,DC,active,9,,false,false
+Gourav Mahajan,right-hand,legbreak,Indian,bowler,false,false,false,false,MI,retired,1,,false,false
+Govind Poddar,right-hand,,Indian,batsman,false,true,false,false,RR,retired,1,,false,false
+Govinda Poddar,right-hand,,Indian,batsman,false,true,false,false,RR,retired,1,,false,false
+Gowtham C,right-hand,offbreak,Indian,all-rounder,false,false,false,false,CSK,active,16,,false,false
+Gujjar Rakesh,right-hand,pace,Indian,bowler,false,false,false,false,DC,retired,1,,false,false
+Gulshan Raheja,right-hand,,Indian,batsman,false,true,false,false,DC,retired,1,,false,false
+Gurkeerat Singh,right-hand,offbreak,Indian,batsman,false,false,true,false,PBKS,retired,56,,false,false
+Gurpreet Singh,right-hand,,Indian,batsman,false,true,false,false,PBKS,retired,2,,false,false
+Gurpreet Singh Sandhu,right-hand,,Indian,batsman,false,true,false,false,PBKS,retired,1,,false,false
+Hardeep Singh,right-hand,,Indian,batsman,false,true,false,false,PBKS,retired,1,,false,false
+Harmanpreet Singh,right-hand,,Indian,batsman,false,false,true,false,PBKS,active,7,,false,false
+Harpreet Brar,left-hand,left-arm spin,Indian,bowler,false,false,false,false,PBKS,active,39,,false,false
+Harpreet Singh Bhatia,right-hand,,Indian,batsman,false,false,true,false,RCB,active,8,,false,false
+Hashim Amla,right-hand,offbreak,Overseas,batsman,false,true,false,false,KKR,retired,11,,false,false
+Heinrich Klaasen,right-hand,,Overseas,wk,false,false,true,false,SRH,active,32,,true,true
+Hemant Joshi,right-hand,,Indian,batsman,false,true,false,false,RCB,retired,1,,false,false
+Henrich Klaasen,right-hand,,Overseas,wk,false,false,true,false,RCH,active,32,,true,true
+Himanshu Rana,right-hand,,Indian,batsman,false,true,false,false,SRH,active,3,,false,false
+Hiten Dalal,right-hand,,Indian,batsman,false,true,false,false,DC,retired,1,,false,false
+Hiten Patel,right-hand,left-arm spin,Indian,bowler,false,false,false,false,RCB,retired,1,,false,false
+Huliya Nataraj,right-hand,,Indian,batsman,false,true,false,false,RCB,retired,1,,false,false
+Ian Butler,right-hand,pace,Overseas,bowler,false,false,false,true,CSK,retired,5,,false,false
+Irfan Pathan,left-hand,pace,Indian,all-rounder,true,false,false,true,DC,retired,68,,true,true
+Ishan Kishan,left-hand,,Indian,wk,false,true,false,false,MI,active,105,,true,true
+Ishan Porel,right-hand,pace,Indian,bowler,false,false,false,false,DC,active,15,,false,false
+Ivar Johnson,right-hand,,Overseas,wk,false,true,false,false,DC,retired,2,,false,false
+J Arunkumar,right-hand,offbreak,Indian,batsman,false,true,false,false,RR,retired,1,,false,false
+J Suchith,left-hand,left-arm spin,Indian,bowler,false,false,false,false,DC,retired,24,,false,false
+J Syed Mohammad,right-hand,offbreak,Indian,bowler,false,false,false,false,CSK,retired,1,,false,false
+Jitesh Sharma,right-hand,,Indian,wk,false,false,true,false,PBKS,active,38,,false,false
+Jitesh Sharma,right-hand,,Indian,wk,false,false,true,false,PBKS,active,38,,false,false
+Jitesh Sharma,right-hand,,Indian,wk,false,false,true,false,PBKS,active,38,,false,false
+Jofra Archer,right-hand,pace,Overseas,bowler,false,false,false,true,RR,occasional,34,,true,true
+Johan Botha,right-hand,offbreak,Overseas,bowler,false,false,false,false,MI,retired,24,,false,false
+Jon-Jon Smuts,right-hand,offbreak,Overseas,all-rounder,false,false,false,false,DC,retired,2,,false,false
+Jordon Thompson,right-hand,pace,Overseas,all-rounder,false,false,true,false,KKR,active,4,,false,false
+Jos Buttler,right-hand,,Overseas,wk,true,true,false,false,RR,active,105,orange,true,true
+Joseph Alzarri,right-hand,pace,Overseas,bowler,false,false,false,true,RCB,active,22,,false,false
+Karan Sharma,right-hand,offbreak,Indian,all-rounder,false,false,false,false,DD,retired,45,,false,false
+Karn Sharma,right-hand,legbreak,Indian,bowler,false,false,false,false,RR,active,89,,false,false
+Karthik Kumar,right-hand,,Indian,batsman,false,true,false,false,CSK,retired,1,,false,false
+Karthik Renganathan,right-hand,,Indian,batsman,false,true,false,false,RCB,retired,1,,false,false
+Karthik Senthilnathan,right-hand,,Indian,batsman,false,true,false,false,CSK,retired,1,,false,false
+Karu Jain,right-hand,,Indian,batsman,false,true,false,false,DC,retired,2,,false,false
+Kashyap Zade,right-hand,pace,Indian,bowler,false,false,false,false,MI,retired,1,,false,false
+Kedar Jadhav,right-hand,offbreak,Indian,batsman,false,false,true,false,CSK,retired,104,,true,true
+Keemo Paul,right-hand,pace,Overseas,all-rounder,false,false,true,true,RR,retired,6,,false,false
+Ketan Mhatre,right-hand,,Indian,batsman,false,true,false,false,MI,retired,1,,false,false
+Kevon Cooper,right-hand,legbreak,Overseas,all-rounder,false,false,false,false,RR,retired,11,,false,false
+Kieron Pollard,right-hand,pace,Overseas,all-rounder,false,false,true,false,MI,retired,204,,true,true
+Kirankumar Vaidya,left-hand,left-arm spin,Indian,bowler,false,false,false,false,GT,retired,1,,false,false
+Kiran More,right-hand,,Indian,wk,true,false,false,false,RCB,retired,1,,false,false
+Kishen Vaghela,right-hand,offbreak,Indian,bowler,false,false,false,false,GT,retired,1,,false,false
+Kishore Kamath,right-hand,,Indian,wk,false,true,false,false,RCB,retired,1,,false,false
+Kshitij Sharma,right-hand,legbreak,Indian,bowler,false,false,false,false,RR,retired,1,,false,false
+Kusal Janith Perera,left-hand,,Overseas,wk,false,true,false,false,RR,retired,2,,false,false
+Kyle Jamieson,right-hand,pace,Overseas,bowler,false,false,false,true,RCB,active,7,,false,false
+Lalit Yadav,right-hand,left-arm spin,Indian,all-rounder,false,false,false,false,DC,active,26,,false,false
+Lalit Singh,right-hand,,Indian,batsman,false,true,false,false,LSG,active,2,,false,false
+Laxman Sreekumar,right-hand,,Indian,batsman,false,true,false,false,RCB,retired,1,,false,false
+Liam Livingstone,right-hand,offbreak,Overseas,batsman,false,true,true,false,PBKS,active,28,,true,true
+Lungi Ngidi,right-hand,pace,Overseas,bowler,false,false,false,true,LSG,active,14,,false,false
+Luvnith Sisodia,right-hand,,Indian,wk,false,true,false,false,RCB,retired,5,,false,false
+Maan Singh,right-hand,,Indian,batsman,false,true,false,false,DC,retired,1,,false,false
+Mahela Jayawardene,right-hand,offbreak,Overseas,batsman,true,true,false,false,KXIP,retired,34,,true,true
+Mahmudullah,right-hand,offbreak,Overseas,all-rounder,false,false,false,false,DC,retired,16,,false,false
+Manan Vohra,right-hand,offbreak,Indian,batsman,false,true,false,false,KXIP,retired,55,,false,false
+Mandeep Singh,right-hand,,Indian,batsman,false,true,false,false,PBKS,retired,120,,false,false
+Manish Pandey,right-hand,offbreak,Indian,batsman,false,true,false,false,SRH,active,171,,true,true
+Manjeet Singh,right-hand,,Indian,bowler,false,false,false,false,RR,retired,1,,false,false
+Manoj Tiwary,right-hand,legbreak,Indian,batsman,true,true,false,false,KKR,retired,66,,false,false
+Mayank Agarwal,right-hand,,Indian,batsman,false,true,false,false,PBKS,occasional,127,,true,true
+Mayank Dagar,left-hand,left-arm spin,Indian,bowler,false,false,false,false,GT,active,14,,false,false
+Mayank Markande,right-hand,legbreak,Indian,bowler,false,false,false,false,SRH,active,25,,false,false
+Mayank Yadav,right-hand,pace,Indian,bowler,false,false,false,true,LSG,active,4,,false,false
+M Ayush,right-hand,,Indian,batsman,false,true,false,false,RR,retired,1,,false,false
+M Chaitanya Reddy,right-hand,,Indian,batsman,false,true,false,false,SRH,retired,1,,false,false
+M Harishankar Reddy,right-hand,pace,Indian,bowler,false,false,false,false,SRH,retired,1,,false,false
+M Mohammed,right-hand,pace,Indian,bowler,false,false,false,false,CSK,retired,2,,false,false
+M Naman Dhir,right-hand,legbreak,Indian,batsman,false,false,true,false,MI,active,9,,false,false
+M Shahrukh Khan,right-hand,offbreak,Indian,batsman,false,false,true,false,PBKS,active,35,,false,false
+M Siddharth,left-hand,left-arm spin,Indian,bowler,false,false,false,false,LSG,active,6,,false,false
+M Shubham Jadhav,right-hand,,Indian,batsman,false,true,false,false,RCB,retired,1,,false,false
+Michael Hussey,left-hand,,Overseas,batsman,false,true,false,false,CSK,retired,64,orange,true,true
+Michael Nabi,right-hand,offbreak,Overseas,all-rounder,false,false,false,false,MI,active,11,,false,false
+Mickey Edwards,right-hand,pace,Overseas,bowler,false,false,false,true,CSK,retired,1,,false,false
+Mihir Hirwani,right-hand,legbreak,Indian,bowler,false,false,false,false,RR,active,2,,false,false
+Mithun Manhas,right-hand,offbreak,Indian,batsman,false,false,false,false,DC,retired,2,,false,false
+Naman Ojha,right-hand,,Indian,wk,false,true,false,false,DC,retired,77,,false,false
+Naman Dhir,right-hand,legbreak,Indian,batsman,false,false,true,false,MI,active,9,,false,false
+Nandre Burger,left-hand,pace,Overseas,bowler,false,false,false,true,RR,active,2,,false,false
+Narasimha Kumar,right-hand,,Indian,batsman,false,true,false,false,RCB,retired,1,,false,false
+Natasha Miles,right-hand,,Overseas,batsman,false,true,false,false,MI,retired,1,,false,false
+Navdeep Saini,right-hand,pace,Indian,bowler,false,false,false,true,RR,active,32,,false,false
+Navneet Singh,right-hand,,Indian,batsman,false,true,false,false,RR,retired,1,,false,false
+Nehal Wadhera,left-hand,left-arm spin,Indian,batsman,false,false,true,false,MI,active,22,,false,false
+Nemo Singh,right-hand,,Indian,batsman,false,true,false,false,RR,retired,1,,false,false
+Nicholas Pooran,left-hand,,Overseas,wk,false,false,true,false,LSG,active,82,,true,true
+Nick Compton,right-hand,offbreak,Overseas,batsman,false,true,false,false,DC,retired,2,,false,false
+Nikhil Naik,right-hand,,Indian,wk,false,true,false,false,MI,retired,20,,false,false
+Nikhil Suryadevara,right-hand,,Indian,batsman,false,true,false,false,RCB,retired,1,,false,false
+Nikhil Yadav,left-hand,left-arm spin,Indian,bowler,false,false,false,false,RCB,retired,1,,false,false
+Nitin Saini,right-hand,legbreak,Indian,bowler,false,false,false,false,RR,retired,1,,false,false
+Nitin Sharma,right-hand,,Indian,batsman,false,true,false,false,DC,retired,1,,false,false
+Nuwan Kulasekara,right-hand,pace,Overseas,bowler,false,false,false,true,CSK,retired,1,,false,false
+Nuwan Pradeep,right-hand,pace,Overseas,bowler,false,false,false,true,DC,retired,2,,false,false
+Obed McCoy,left-hand,pace,Overseas,bowler,false,false,false,true,RR,active,14,,false,false
+Odean Smith,right-hand,pace,Overseas,all-rounder,false,false,true,true,KKR,active,19,,false,false
+Pahalwa Gurpreet,right-hand,,Indian,batsman,false,true,false,false,PBKS,retired,1,,false,false
+Panchal Priyank,right-hand,offbreak,Indian,batsman,false,true,false,false,GT,retired,1,,false,false
+Parag Riyan,right-hand,legbreak,Indian,batsman,false,false,true,false,GT,active,31,,true,true
+Parimel Azhagan,right-hand,,Indian,bowler,false,false,false,false,CSK,retired,1,,false,false
+Parth Joshi,right-hand,offbreak,Indian,bowler,false,false,false,false,RCB,retired,1,,false,false
+Pardeep Sahu,right-hand,,Indian,batsman,false,true,false,false,RR,retired,2,,false,false
+Parth Baman,right-hand,,Indian,batsman,false,true,false,false,MI,retired,1,,false,false
+Parth Jani,right-hand,,Indian,batsman,false,true,false,false,GT,retired,1,,false,false
+Parthiv Patel,left-hand,,Indian,wk,true,true,false,false,RCB,retired,130,,true,true
+Pawan Negi,left-hand,left-arm spin,Indian,all-rounder,false,false,false,false,DD,retired,29,,false,false
+Pawan Suyal,left-hand,left-arm pace,Indian,bowler,false,false,false,false,DD,retired,4,,false,false
+Pradeep Sangwan,right-hand,pace,Indian,bowler,false,false,false,true,DD,retired,14,,false,false
+Pragyan Ojha,left-hand,left-arm spin,Indian,bowler,false,false,false,false,MI,retired,116,,true,true
+Prakhar Chaturvedi,right-hand,,Indian,batsman,false,true,false,false,RCB,active,2,,false,false
+Prashant Chopra,right-hand,,Indian,batsman,false,true,false,false,KXIP,retired,2,,false,false
+Prashant Kanbai,right-hand,,Indian,batsman,false,true,false,false,CSK,retired,1,,false,false
+Prasidh Krishna,right-hand,pace,Indian,bowler,false,false,false,true,RR,active,26,,false,false
+Pravin Tambe,right-hand,legbreak,Indian,bowler,false,false,false,false,RR,retired,29,,false,false
+Prem Srivastav,right-hand,left-arm spin,Indian,bowler,false,false,false,false,RR,retired,3,,false,false
+Preston Jackson,right-hand,,Overseas,batsman,false,true,false,false,RCB,retired,1,,false,false
+Prithvi Raj Yarra,right-hand,left-arm spin,Indian,bowler,false,false,false,false,SRH,retired,1,,false,false
+Pritesh Pawar,right-hand,,Indian,batsman,false,true,false,false,MI,retired,1,,false,false
+Pryank Panchal,right-hand,offbreak,Indian,batsman,false,true,false,false,GT,retired,1,,false,false
+Pujarasubramaniam,right-hand,,Indian,batsman,false,true,false,false,RCB,retired,1,,false,false
+Punit Goyal,right-hand,,Indian,batsman,false,true,false,false,RR,retired,1,,false,false
+Punit Jaiswal,right-hand,,Indian,batsman,false,true,false,false,RR,retired,1,,false,false
+Purv Shah,right-hand,,Indian,batsman,false,true,false,false,GT,retired,1,,false,false
+Qamran Iqbal,right-hand,,Indian,batsman,false,true,false,false,RR,retired,1,,false,false
+Rachin Ravindra,left-hand,left-arm spin,Overseas,all-rounder,false,true,false,false,CSK,active,12,,true,true
+Rahul Chahar,right-hand,legbreak,Indian,bowler,false,false,false,false,PBKS,active,42,,false,false
+Rahul Sharma,right-hand,legbreak,Indian,bowler,false,false,false,false,MI,retired,104,,false,false
+Rahul Shukla,right-hand,pace,Indian,bowler,false,false,false,false,RR,retired,1,,false,false
+Rahul Tripathi,right-hand,offbreak,Indian,batsman,false,true,false,false,SRH,active,79,,true,true
+Raj Angad Bawa,right-hand,left-arm pace,Indian,all-rounder,false,false,true,true,CSK,active,3,,false,false
+Rajat Patidar,right-hand,legbreak,Indian,batsman,false,true,false,false,RCB,active,26,,true,true
+Rajeev Tyagi,right-hand,pace,Indian,bowler,false,false,false,false,RR,retired,1,,false,false
+Rajesh Advani,right-hand,,Indian,batsman,false,true,false,false,MI,retired,1,,false,false
+Rajesh Pawar,right-hand,left-arm spin,Indian,bowler,false,false,false,false,DC,retired,1,,false,false
+Rakesh Sharma,right-hand,legbreak,Indian,bowler,false,false,false,false,RR,retired,1,,false,false
+Rakesh Solanki,right-hand,legbreak,Indian,bowler,false,false,false,false,RR,retired,1,,false,false
+Raman Suri,right-hand,,Indian,batsman,false,true,false,false,DC,retired,1,,false,false
+Ramesh Kumar,right-hand,,Indian,batsman,false,true,false,false,RCB,retired,1,,false,false
+Ramandeep Singh,right-hand,pace,Indian,all-rounder,false,false,true,true,KKR,active,14,,false,false
+Rampaul Ravi,right-hand,pace,Overseas,bowler,false,false,false,true,RCB,retired,20,,false,false
+Rana Dinesh,left-hand,offbreak,Indian,batsman,false,true,false,false,KKR,active,104,,true,true
+Rana Naved-ul-Hasan,right-hand,pace,Overseas,all-rounder,false,false,false,true,RR,retired,11,,false,false
+Ranganath V,right-hand,,Indian,batsman,false,true,false,false,RCB,retired,1,,false,false
+Ranjith Yadav,left-hand,left-arm spin,Indian,bowler,false,false,false,false,RCB,retired,1,,false,false
+Rao Inderpreet Singh,right-hand,pace,Indian,bowler,false,false,false,false,MI,retired,1,,false,false
+Rashid Khan,right-hand,legbreak,Overseas,bowler,false,false,false,true,GT,active,134,purple,true,true
+R Ashwin,left-hand,offbreak,Indian,bowler,true,false,false,false,CSK,active,226,,true,true
+Ravi Bishnoi,right-hand,legbreak,Indian,bowler,false,false,false,false,LSG,active,40,,true,true
+Ravi Rampaul,right-hand,pace,Overseas,bowler,false,false,false,true,RCB,retired,20,,false,false
+Ravichandran Ashwin,left-hand,offbreak,Indian,bowler,true,false,false,false,CSK,active,226,,true,true
+Ravindra Jadeja,left-hand,spin,Indian,all-rounder,true,false,true,false,CSK,active,226,,true,true
+Siddarth Kaul,right-hand,pace,Indian,bowler,false,false,false,true,DD,retired,100,,false,false
+Simarjeet Singh,right-hand,pace,Indian,bowler,false,false,false,true,DC,active,20,,false,false
+Shivam Dube,right-hand,legbreak,Indian,all-rounder,false,false,true,false,CSK,active,48,,true,true
+Shivam Mavi,right-hand,pace,Indian,bowler,false,false,false,true,CSK,active,18,,false,false
+Shivam Sharma,left-hand,left-arm spin,Indian,bowler,false,false,false,false,GT,active,14,,false,false
+Sherfane Rutherford,left-hand,,Overseas,batsman,false,false,true,false,KKR,active,5,,false,false
+Sikandar Raza,right-hand,offbreak,Overseas,all-rounder,false,false,true,false,PBKS,active,10,,false,false
+Sirajul Islam,left-hand,offbreak,Overseas,bowler,false,false,false,false,SRH,retired,2,,false,false
+Soumya Sarkar,right-hand,offbreak,Overseas,batsman,false,true,false,false,MI,retired,14,,false,false
+Sreenath Aravind,right-hand,pace,Indian,bowler,false,false,false,false,CSK,retired,8,,false,false
+Srijit Mandal,left-hand,left-arm spin,Indian,bowler,false,false,false,false,LSG,active,7,,false,false
+Sudhesh Sharma,right-hand,legbreak,Indian,bowler,false,false,false,false,MI,active,1,,false,false
+Sujith Somasundaram,right-hand,offbreak,Indian,batsman,false,true,false,false,SRH,retired,5,,false,false
+Sunny Nijjar,right-hand,pace,Indian,bowler,false,false,false,false,MI,retired,1,,false,false
+Sunil Narine,left-hand,offbreak,Overseas,bowler,false,false,false,true,KKR,active,182,purple,true,true
+Suryakumar Yadav,right-hand,offbreak,Indian,batsman,false,true,true,false,MI,active,106,,true,true
+Swaya Da Costa,right-hand,,Overseas,batsman,false,true,false,false,KKR,active,1,,false,false
+Syed Mushtaq Ali,right-hand,offbreak,Overseas,all-rounder,false,false,false,false,DC,retired,1,,false,false
+Syracuse De Silva,right-hand,legbreak,Overseas,bowler,false,false,false,false,KKR,retired,1,,false,false
+T Ravi Teja,right-hand,pace,Indian,all-rounder,false,false,true,false,CSK,active,16,,false,false
+Talha Jubair,right-hand,pace,Overseas,bowler,false,false,false,true,CSK,retired,1,,false,false
+Tamil Nadu Veeraraghavan,right-hand,,Indian,batsman,false,true,false,false,RCB,retired,1,,false,false
+Tejas Baroka,right-hand,legbreak,Indian,bowler,false,false,false,false,DC,retired,4,,false,false
+Tevin Iyer,left-hand,offbreak,Overseas,batsman,false,true,false,false,RCB,retired,1,,false,false
+Thisara Perera,left-hand,offbreak,Overseas,all-rounder,false,false,true,true,CSK,retired,60,,true,true
+T Natarajan,left-hand,pace,Indian,bowler,false,false,false,true,SRH,active,59,,true,true
+Tejashwi Yadav,right-hand,pace,Indian,all-rounder,false,false,true,true,RCB,active,14,,false,false
+Tim David,right-hand,,Overseas,batsman,false,false,true,false,MI,active,45,,true,true
+Tim Seifert,right-hand,pace,Overseas,wk,false,false,false,false,KKR,active,16,,false,false
+Tiwari Madhav,right-hand,offbreak,Indian,batsman,false,true,false,false,DC,active,5,,false,false
+Tymal Mills,right-hand,pace,Overseas,bowler,false,false,false,true,DC,retired,14,,false,false
+Umair Khan,right-hand,pace,Indian,bowler,false,false,false,false,CSK,retired,1,,false,false
+Umran Malik,right-hand,pace,Overseas,bowler,false,false,false,true,SRH,active,43,,false,false
+Unadkat Jaydev,right-hand,pace,Indian,bowler,false,false,false,true,SRH,active,83,,false,false
+Venkatesh Iyer,right-hand,legbreak,Indian,batsman,false,true,false,false,RR,active,66,,true,true
+Vijay Shankar,right-hand,offbreak,Indian,all-rounder,false,false,true,false,SRH,active,84,,true,true
+Vinay Kumar,right-hand,pace,Indian,bowler,false,false,false,true,RCB,retired,123,,true,true
+Vinoo Mankad,right-hand,offbreak,Indian,all-rounder,true,true,false,false,CSK,retired,1,,false,false
+Vishnu Vinod,right-hand,offbreak,Indian,wk,false,false,true,false,PBKS,active,15,,false,false
+Washington Sundar,right-hand,offbreak,Indian,all-rounder,false,false,false,false,SRH,active,76,,true,true
+Wayne Parnell,right-hand,pace,Overseas,all-rounder,false,false,false,true,RCB,retired,12,,false,false
+Yashasvi Jaiswal,left-hand,,Indian,batsman,false,true,false,false,RR,active,59,,true,true
+Yash Dayal,left-hand,pace,Indian,bowler,false,false,false,true,RCB,active,29,,false,false
+Yash Thakur,right-hand,pace,Indian,bowler,false,false,false,true,PBKS,active,34,,false,false
+Yudhvir Singh Charak,right-hand,pace,Overseas,bowler,false,false,false,true,RR,active,16,,false,false
+Zac Morris,right-hand,pace,Overseas,bowler,false,false,false,true,DC,retired,1,,false,false
+Zafar Ansari,right-hand,offbreak,Overseas,all-rounder,false,false,false,false,CSK,retired,11,,false,false
+Zishan Ansari,left-hand,legbreak,Overseas,bowler,false,false,false,false,CSK,active,14,,false,false
+Zulfiqar Babar,right-hand,offbreak,Overseas,bowler,false,false,false,false,MI,retired,3,,false,false
+Zaheer Khan,right-hand,pace,Indian,bowler,true,false,false,true,MI,retired,121,purple,true,true
+Vaibhav Suryavanshi,left-hand,,Indian,batsman,false,true,false,false,RR,active,12,,false,false
+robin Minz,left-hand,spin,Indian,wk,false,false,false,false,MI,active,4,,false,false
+
