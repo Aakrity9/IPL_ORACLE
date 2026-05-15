@@ -21,7 +21,7 @@ The project uses a modern, high-performance stack to ensure a smooth and engagin
 * **Frontend:** Built with **Tailwind CSS** for a clean, "classic and aesthetic" UI that is fully responsive.
 * **Backend:** Powered by **Node.js**, handling the asynchronous AI engine loop and candidate probability updates.
 * **AI Engine:** Integrated with the **Gemini API** for dynamic question generation and reasoning logic.
-* **Database:** Utilizing **Google Sheets or BigQuery** as the foundational database for historical IPL player stats.
+* **Database:** Utilizing **Google Sheets** as the foundational database for historical IPL player stats.
 
 ---
 
